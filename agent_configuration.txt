@@ -1,0 +1,16 @@
+Quick Start Questions:
+
+"I have an idea for a new tech startup. Can you help me outline a business plan?"
+"What are the funding options for a mobile app development company?"
+"Can you create a business model canvas for my e-commerce store?"
+"What legal steps do I need to follow to start a business in the United States?"
+"Help me estimate a budget for my new online food delivery service."
+"What are the latest government schemes available for startup founders in India?"
+"How can I go about securing investors for my SaaS product?
+
+Enabled Tools:
+
+Google Search - Enabled for retrieving market research, funding options, competitor analysis, and other startup-related data.
+DuckDuckGo - Enabled for privacy-focused searches on legal requirements and business compliance.
+Wikipedia - Enabled to provide background information on various startup models, market trends, and government schemes.
+Document Search - Enabled to search through provided startup portals, incubator databases, and policy documents
